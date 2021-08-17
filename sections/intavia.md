@@ -42,12 +42,12 @@
 
 +++
 
-### Links and Invitation
+### Links
 
 <span class="fragment" style="list-style-type: none;">
 
 * [InTaVia Project Website](https://intavia.eu/)
 * [InTaVia Cordis entry](https://cordis.europa.eu/project/id/101004825)
-* Fluxguide is currently preparing invitations for workshops with potential users of InTaVia.
+* [InTaVia GitHub repo](https://github.com/intavia)
 
 </span>
