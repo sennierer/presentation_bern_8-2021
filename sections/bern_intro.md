@@ -2,10 +2,10 @@
 
 <span style="font-size: 0.7em">
 
-* Challenges data harmonisation <!-- .element: class="fragment" -->
-* APIS (Software) <!-- .element: class="fragment" -->
+* Tools @ACDH-CH <!-- .element: class="fragment" -->
+* APIS <!-- .element: class="fragment" -->
+* Omnipot <!-- .element: class="fragment" -->
 * InTaVia <!-- .element: class="fragment" -->
-* PAAS as an example <!-- .element: class="fragment" -->
 * ACDH-CH Knowledge Graph <!-- .element: class="fragment" -->
 
     
@@ -15,10 +15,6 @@ https://acdh.oeaw.ac.at/ <!-- .element: class="fragment" -->
 
 https://github.com/acdh-oeaw/ <!-- .element: class="fragment" -->
 </span>
-
-+++
-
-<img class="r-stretch" style="margin-bottom:60px" src="images/acdh_tools_prosopography.svg">
 
 +++
 
@@ -38,29 +34,3 @@ https://github.com/acdh-oeaw/ <!-- .element: class="fragment" -->
 * [Omnipot](https://omnipot.acdh-dev.oeaw.ac.at/): Researchspace based knowledgebase that combines data from different sources
 * [Nerdpool](https://nerdpool.acdh-dev.oeaw.ac.at/): Service to spawn prodigy instances for training NLP models
 * [SpacyApp](https://spacyapp.acdh-dev.oeaw.ac.at/): service to run large chunks of texts (eg TEIs) through spacy NLP models
-
-+++
-
-### "Wiener Hof" projects@IHB
-
-* VieCPro: Marion Romberg & Maximilian Kaiser (Innovationsfond)
-* Der Wiener Hof: Eliten, Herrschaft und Repräsentation: Katrin Keller (FWF)
-* Family Matters. Dynastic Agency in the Correspondence of Empress Eleonora
-Magdalena of Pfalz-Neuburg: Katrin Keller (FWF)
-
-
-+++
-
-### VieCPro project requirements
-
-* Prosopographical Database <!-- .element: class="fragment" -->
-* extendable for more datasets to come <!-- .element: class="fragment" -->
-* frontend to curate the data <!-- .element: class="fragment" -->
-* API to automatically ingest the data <!-- .element: class="fragment" -->
-* pipeline for data ingestion <!-- .element: class="fragment" style="font-size: 1.5em; color: #a1261d" -->
-
-+++
-
-
-<img class="r-stretch" src="images/hzab_xlsx_sc.png">
-<img style="margin-bottom:60px" src="images/hzab_apis_sc.png">
